@@ -1,0 +1,2 @@
+Burası İnformasyon alanıdır.Burada kendi Komut Satırımdan git kullanarak init add commit merge methodları hakkında
+çalışmalar gerçekleştirior olacağım
